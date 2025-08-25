@@ -1,0 +1,7 @@
+chardet==5.2.0
+GPUtil==1.4.0
+humanfriendly==10.0
+psutil==7.0.0
+py-cpuinfo==9.0.0
+pySMART==1.4.1
+setuptools==80.9.0
